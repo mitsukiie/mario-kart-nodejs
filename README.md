@@ -1,4 +1,3 @@
-
 # 🏎️ Projeto Mario Kart - Node.js
 
 Este é um mini game de corrida estilo Mario Kart, feito com JavaScript e Node.js. Dois personagens (Mario e Luigi) se enfrentam em 5 rodadas, onde cada rodada sorteia um tipo de pista (RETA, CURVA ou CONFRONTO). Cada personagem possui atributos diferentes e vantagens em determinados tipos de pista.
